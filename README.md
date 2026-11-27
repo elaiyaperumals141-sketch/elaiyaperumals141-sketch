@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**elaiyaperumals141-sketch/elaiyaperumals141-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm T. Elaiya Perumal
 
-Here are some ideas to get you started:
+🤖 Aspiring Machine Learning Engineer | AI Enthusiast | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! 🚀
+
+I'm an engineering student passionate about Artificial Intelligence, Machine Learning, Python programming and building real-world projects.
+
+👨‍💻 About Me
+
+- 🎓 Engineering Student (B.E / B.Tech)
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🐍 Learning Python and Data Science
+- 📊 Exploring predictive analytics and machine learning algorithms
+- 💡 Passionate about learning and developing innovative projects
+
+🛠️ Technical Skills
+
+Programming
+
+- Python
+
+Data Science & Machine Learning
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Linear Regression
+
+🚀 Featured Project
+
+🏥 Insurance Charges Prediction
+
+An end-to-end Machine Learning project that predicts medical insurance charges based on customer information.
+
+Technologies Used:
+
+- Python
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Scikit-learn
+- Linear Regression
+
+🎯 Current Goals
+
+- Strengthen my Machine Learning knowledge.
+- Build real-world AI projects.
+- Explore Deep Learning.
+- Improve Python programming skills.
+- Become a professional Machine Learning Engineer.
+
+📫 Connect With Me
+
+- GitHub: "@elaiyaperumals141-sketch" (https://github.com/elaiyaperumals141-sketch)
+
+---
+
+💫 LEARN | BUILD | INNOVATE
+
+⭐ Thanks for visiting my GitHub profile!
